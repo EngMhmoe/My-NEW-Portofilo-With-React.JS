@@ -1,0 +1,222 @@
+/* ===================================================================================================================================
+  TopHeaderFooter
+Social Media Container
+   =================================================================================================================================== */
+
+/* ============================================================
+Social Media Container
+   ============================================================ */
+.social-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  /* Gap ONLY between the two pairs */
+  gap: 20px;
+}
+
+/* ============================================================
+   Social Group
+   ============================================================ */
+
+.social-group {
+  display: flex;
+  align-items: center;
+
+  /* Buttons inside each pair are touching */
+  gap: 0;
+}
+
+/* ============================================================
+   Social Card
+   ============================================================ */
+
+.social-card {
+  width: 65px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  border: none;
+  background: white;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+  box-shadow:
+    1px 1px 0 rgb(179, 175, 175),
+    2px 2px 0 rgb(179, 175, 175),
+    3px 3px 0 rgb(179, 175, 175),
+    4px 4px 0 rgb(179, 175, 175),
+    5px 5px 0 rgb(179, 175, 175);
+}
+
+/* ============================================================
+   Social Icon
+   ============================================================ */
+
+.social-icon {
+  width: 35px;
+  height: 35px;
+
+  fill: currentColor;
+
+  transition: 0.2s ease-in-out;
+}
+
+/* ============================================================
+   Pair Shape
+   ============================================================ */
+
+/* Facebook + LinkedIn
+   Rounded corner → Top Left */
+
+.card-facebook,
+.card-linkedin {
+  border-radius: 66px 5px 5px 5px;
+  -webkit-border-radius: 66px 5px 5px 5px;
+  -moz-border-radius: 66px 5px 5px 5px;
+  -ms-border-radius: 66px 5px 5px 5px;
+  -o-border-radius: 66px 5px 5px 5px;
+}
+
+/* WhatsApp + GitHub
+   Rounded corner → Top Right */
+
+.card-whatsapp,
+.card-whatsapp-dark,
+.card-github {
+  border-radius: 5px 66px 5px 5px;
+  -webkit-border-radius: 5px 66px 5px 5px;
+  -moz-border-radius: 5px 66px 5px 5px;
+  -ms-border-radius: 5px 66px 5px 5px;
+  -o-border-radius: 5px 66px 5px 5px;
+}
+
+/* ============================================================
+   Facebook
+   ============================================================ */
+
+.card-facebook {
+  color: #365392;
+}
+
+.card-facebook:hover {
+  cursor: pointer;
+  scale: 1.1;
+
+  background-color: #2a54ad;
+  color: white;
+
+  box-shadow:
+    1px 1px 0 #6680ba,
+    2px 2px 0 #6680ba,
+    3px 3px 0 #6680ba,
+    4px 4px 0 #6680ba,
+    5px 5px 0 #6680ba;
+}
+
+/* ============================================================
+   WhatsApp
+   ============================================================ */
+
+.card-whatsapp,
+.card-whatsapp-dark {
+  color: #009d3c;
+}
+
+.card-whatsapp:hover,
+.card-whatsapp-dark:hover {
+  cursor: pointer;
+  scale: 1.1;
+
+  background-color: #00ac42;
+  color: white;
+
+  box-shadow:
+    1px 1px 0 #8de0ad,
+    2px 2px 0 #55cb82,
+    3px 3px 0 #55cb82,
+    4px 4px 0 #55cb82,
+    5px 5px 0 #55cb82;
+}
+
+/* ============================================================
+   LinkedIn
+   ============================================================ */
+
+.card-linkedin {
+  color: #0176b5;
+}
+
+.card-linkedin:hover {
+  cursor: pointer;
+  scale: 1.1;
+
+  background-color: #0082ca;
+  color: white;
+
+  box-shadow:
+    1px 1px 0 #8fc9e5,
+    2px 2px 0 #5aafd4,
+    3px 3px 0 #5aafd4,
+    4px 4px 0 #5aafd4,
+    5px 5px 0 #5aafd4;
+}
+
+/* ============================================================
+   GitHub
+   ============================================================ */
+
+.card-github {
+  color: #2a2a2a;
+}
+
+.card-github:hover {
+  cursor: pointer;
+  scale: 1.1;
+
+  background-color: #333333;
+  color: white;
+
+  box-shadow:
+    1px 1px 0 rgb(124, 123, 123),
+    2px 2px 0 #333,
+    3px 3px 0 #333,
+    4px 4px 0 #333,
+    5px 5px 0 #333;
+}
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+
+@media (max-width: 429px) {
+  .social-container {
+    gap: 15px;
+  }
+
+  .social-group {
+    gap: 0;
+  }
+
+  .social-card {
+    width: 60px;
+    height: 60px;
+  }
+
+  .card-facebook,
+  .card-linkedin {
+    border-radius: 58px 5px 5px 5px;
+  }
+
+  .card-whatsapp,
+  .card-whatsapp-dark,
+  .card-github {
+    border-radius: 5px 58px 5px 5px;
+  }
+
+  .social-icon {
+    width: 25px;
+    height: 25px;
+  }
+}

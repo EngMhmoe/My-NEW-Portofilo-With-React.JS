@@ -1,0 +1,10 @@
+/* ============================================================
+   Skills & Technologies
+   ============================================================ */
+
+@media (max-width: 395px) {
+  .ToolsGrid {
+    display: flex;
+    flex-direction: column;
+  }
+}

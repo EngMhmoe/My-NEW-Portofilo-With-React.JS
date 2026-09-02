@@ -1,0 +1,144 @@
+@media screen and (max-width: 403px) {
+  .description {
+    text-align: start;
+    font-size: 26px;
+  }
+}
+
+@media screen and (max-width: 349px) {
+  .description {
+    font-size: 23.5px;
+  }
+}
+
+/* ============================================================
+  Social Icons 
+   ============================================================ */
+.icon {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  font-size: 18px;
+  color: rgb(255, 0, 0);
+  background-color: rgba(255, 0, 0, 0.153);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 6px 10px rgba(0, 45, 225, 0.315);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -moz-transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -ms-transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -o-transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+/* ============================================================
+   Tooltip
+   ============================================================ */
+.tooltip {
+  position: absolute;
+  top: 0;
+  font-size: 15px;
+  background: #fff;
+  color: #fff;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+/* ============================================================
+   Tooltip Arrow
+   ============================================================ */
+.tooltip::before {
+  position: absolute;
+  content: "";
+  height: 8px;
+  width: 8px;
+  background: #fff;
+  bottom: -5px;
+  left: 50%;
+  transform: translate(-50%) rotate(45deg);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transform: translate(-50%) rotate(45deg);
+  -moz-transform: translate(-50%) rotate(45deg);
+  -ms-transform: translate(-50%) rotate(45deg);
+  -o-transform: translate(-50%) rotate(45deg);
+  -webkit-transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -moz-transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -ms-transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -o-transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+/* ============================================================
+   Tooltip Hover
+   ============================================================ */
+.icon:hover .tooltip {
+  top: -45px;
+
+  opacity: 1;
+  visibility: visible;
+
+  pointer-events: auto;
+}
+
+/* ============================================================
+   Text Shadow
+   ============================================================ */
+.icon:hover span,
+.icon:hover .tooltip {
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
+}
+
+/* ============================================================
+   Facebook
+   ============================================================ */
+.facebook:hover,
+.facebook:hover .tooltip,
+.facebook:hover .tooltip::before {
+  background: #1877f2;
+  color: #fff;
+}
+
+/* ============================================================
+   LinkedIn
+   ============================================================ */
+.linkedin:hover,
+.linkedin:hover .tooltip,
+.linkedin:hover .tooltip::before {
+  background: #0a66c2;
+  color: #fff;
+}
+
+/* ============================================================
+   GitHub
+   ============================================================ */
+.github:hover,
+.github:hover .tooltip,
+.github:hover .tooltip::before {
+  background: #262424;
+  color: #fff;
+}
+
+/* ============================================================
+   WhatsApp
+   ============================================================ */
+.whatsapp:hover,
+.whatsapp:hover .tooltip,
+.whatsapp:hover .tooltip::before {
+  background: #25d366;
+  color: #fff;
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
