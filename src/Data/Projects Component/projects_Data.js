@@ -6,80 +6,71 @@ export const Projects_Data = [
   // Step 1 ==> ALL Project ==> HTML & CSS
   // ============================================================
 
-  // Project 1
+  // Project 1  ==>  OK
   {
-    id: 1,
-    nameCard: "html-css",
-    title: "Control Panel Dashboard",
-    description:
-      "A responsive admin dashboard interface built with HTML5 and CSS3, featuring a structured layout, organized content sections, and a clean user interface",
-    tags: ["HTML5", "CSS3", "Responsive Design"],
-    image: "/Images/Image My Projects/ControlPanelDashboard.png",
-    liveUrl: "https://controlpanel-with-htmandcss.netlify.app/",
-    githubUrl:
-      "https://github.com/EngMhmoe/ControlPanel-With-Html-CSS.git",
-    category: "Dashboard",
-    year: "2023",
+  id: 1,
+  nameCard: "html-css",
+  title: "Control Panel Dashboard",
+  description:
+    "A modern and responsive admin dashboard built with HTML5 and CSS3, featuring a clean sidebar navigation, statistics cards, product management tables, data visualization, and multiple organized dashboard pages.",
+  tags: ["HTML5", "CSS3", "Responsive Design"],
+  image: "/Images/Image My Projects/Image (HTML-CSS)/Control_Panel_Dashboard.png",
+  liveUrl: "https://dashboardcontrolpanel-html-css.web.app/",
+  githubUrl:
+    "https://github.com/EngMhmoe/ControlPanel-With-Html-CSS.git",
+  category: "Dashboard",
+  year: "2023",
   },
 
 
 
 
-
-  // Project 2
-  {
-    id: 2,
-    nameCard: "html-css",
-    title: "Travel Website",
-    description:
-      "A responsive travel website built with HTML5 and CSS3, featuring a modern layout, organized content, and a consistent user experience across different screen sizes",
-    tags: ["HTML5", "CSS3", "Responsive Design"],
-    image: "/Images/Image My Projects/TravelWebsite.png",
-    liveUrl: "https://travel-with-htmlandcss.netlify.app",
-    githubUrl:
-      "https://github.com/EngMhmoe/travel-With-HtmlAndCss.git",
-    category: "Travel",
-    year: "2023",
-  },
+// Project 2  ==>  OK
+{
+  id: 2,
+  nameCard: "html-css",
+  title: "Adidas Product Landing Page",
+  description:
+    "A modern and responsive Adidas product landing page built with HTML5 and CSS3, featuring a clean navigation bar, product-focused hero section, bold typography, and a dynamic gradient background design.",
+  tags: ["HTML5", "CSS3", "Responsive Design"],
+  image: "/Images/Image My Projects/Image (HTML-CSS)/Landing_Page.png",
+  liveUrl: "https://landing-page-html-css.web.app",
+  githubUrl: "https://github.com/EngMhmoe/Landing_Page-HTML-CSS-.git",
+  category: "Landing Page",
+  year: "2023",
+},
 
 
 
 
+// Project 3  ==>  NO
 
-  // Project 3
-  {
-    id: 3,
-    nameCard: "html-css",
-    title: "Single Home Page",
-    description:
-      "A clean and responsive single-page website built with HTML5 and CSS3, focusing on structured content, modern layout, and cross-device compatibility",
-    tags: ["HTML5", "CSS3", "Responsive Design"],
-    image: "/Images/Image My Projects/HomePage1.png",
-    liveUrl: "",
-    githubUrl: "",
-    category: "Single Page",
-    year: "2023",
-  },
+{
+  id: 3,
 
+  nameCard: "html-css",
 
+  title: "Programming Learning Platform",
 
+  description:
+    "A modern programming learning platform designed to help beginners start their development journey through structured learning paths, covering programming fundamentals, front-end development, web technologies, and back-end development.",
 
+  tags: [
+    "HTML5",
+    "CSS3",
+    "Responsive Design",
+  ],
 
-  // Project 4
-  {
-    id: 4,
-    nameCard: "html-css",
-    title: "Hover Menu Effects",
-    description:
-      "A lightweight interactive interface demonstrating modern hover menu effects using CSS transitions and visual interactions",
-    tags: ["HTML5", "CSS3", "CSS Transitions", "Hover Effects"],
-    image: "/Images/Image My Projects/hover-menu-effect.png",
-    liveUrl: "",
-    githubUrl: "",
-    category: "UI Effects",
-    year: "2023",
-  },
+  image: "/Images/Image My Projects/Image (HTML-CSS)/Programming_Learning_Platform.png",
 
+  liveUrl: "https://programminglearning-html-css.web.app",
+
+  githubUrl: "https://github.com/EngMhmoe/Programming_Learning_Platform-HTML-CSS.git",
+
+  category: "Education",
+
+  year: "2023",
+},
 
 
 
@@ -113,41 +104,15 @@ export const Projects_Data = [
   // Step 2 ==> ALL Projects ==> Bootstrap
   // ============================================================
 
-  // Project 1
-  {
-    id: 5,
-    nameCard: "bootstrap",
-    title: "E-Commerce Website",
-    description:
-      "A responsive electronics e-commerce website built with Bootstrap, featuring organized product sections, responsive layouts, and a user-friendly shopping interface",
-    tags: ["Bootstrap", "HTML5", "CSS3", "Responsive Design"],
-    image: "/Images/Image My Projects/E-CommerceBootStrap.png",
-    liveUrl: "https://e-commerce-with-bootstrap.netlify.app",
-    githubUrl:
-      "https://github.com/EngMhmoe/E-Commerce-With-BootStrap.git",
-    category: "E-Commerce",
-    year: "2024",
-  },
+  // Project 1  ==>  NO
+  // {},
 
 
 
 
 
-  // Project 2
-  {
-    id: 6,
-    nameCard: "bootstrap",
-    title: "Bootstrap Home Page",
-    description:
-      "A responsive home page built with Bootstrap, focusing on structured layouts, reusable components, and a consistent experience across different devices",
-    tags: ["Bootstrap", "HTML5", "CSS3", "Responsive Design"],
-    image: "/Images/Image My Projects/HomBageBootStrap.png",
-    liveUrl: "",
-    githubUrl: "",
-    category: "Landing Page",
-    year: "2024",
-  },
-
+  // Project 2  ==>  NO
+  // {},
 
 
 
@@ -182,14 +147,14 @@ export const Projects_Data = [
   // Step 3 ==> ALL Projects ==> Tailwind CSS
   // ============================================================
 
-  // Project 1
+  // Project 1  ==>  NO
   // {},
 
 
 
 
 
-  // Project 2
+  // Project 2  ==>  NO
   // {},
 
 
@@ -226,7 +191,7 @@ export const Projects_Data = [
   // Step 4 ==> ALL Projects ==> JavaScript
   // ============================================================
 
-  // Project 1
+  // Project 1  ==>  NO
   {
     id: 7,
     nameCard: "javaScript",
@@ -245,7 +210,7 @@ export const Projects_Data = [
 
 
 
-  // Project 2
+  // Project 2  ==>  NO
   {
     id: 8,
     nameCard: "javaScript",
@@ -264,7 +229,7 @@ export const Projects_Data = [
 
 
 
-  // Project 3
+  // Project 3  ==>  NO
   {
     id: 9,
     nameCard: "javaScript",
@@ -283,7 +248,7 @@ export const Projects_Data = [
 
 
 
-  // Project 4
+  // Project 4  ==>  NO
   {
     id: 10,
     nameCard: "javaScript",
@@ -302,7 +267,7 @@ export const Projects_Data = [
 
 
 
-  // Project 5
+  // Project 5  ==>  NO
   {
     id: 11,
     nameCard: "javaScript",
@@ -321,7 +286,7 @@ export const Projects_Data = [
 
 
 
-  // Project 6
+  // Project 6  ==>  NO
   {
     id: 12,
     nameCard: "javaScript",
@@ -378,7 +343,7 @@ export const Projects_Data = [
   // Step 5 ==> ALL Projects ==> React JS
   // ============================================================
 
-  // Project 1
+  // Project 1  ==>  NO
   {
     id: 13,
     nameCard: "react-js",
@@ -406,7 +371,7 @@ export const Projects_Data = [
 
 
 
-  // Project 2
+  // Project 2  ==>  NO
   {
     id: 14,
     nameCard: "react-js",
@@ -436,7 +401,7 @@ export const Projects_Data = [
 
 
 
-  // Project 3
+  // Project 3  ==>  NO
   {
     id: 15,
     nameCard: "react-js",
