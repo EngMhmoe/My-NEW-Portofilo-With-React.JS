@@ -31,6 +31,13 @@ export const headerLinks = [
   // //////////////////////////////////////////////////////////
 
   {
+    label: "certifications",
+    href: "#Certificates",
+  },
+
+  // //////////////////////////////////////////////////////////
+
+  {
     label: "Projects",
     href: "#Projects",
   },

@@ -55,6 +55,19 @@ export const menuBar_Links = [
   // //////////////////////////////////////////////////////////
 
   {
+    label: "certifications",
+    href: "#Certificates",
+    ariaLabel: "Certificates",
+    rotation: 8,
+    hoverStyles: {
+      bgColor: "#10b981",
+      textColor: "#ffffff",
+    },
+  },
+
+  // //////////////////////////////////////////////////////////
+
+  {
     label: "Projects",
     href: "#Projects",
     ariaLabel: "Projects",

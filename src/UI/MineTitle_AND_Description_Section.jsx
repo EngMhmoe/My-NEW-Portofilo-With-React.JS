@@ -97,7 +97,6 @@ export default function MineTitle_AND_Description_Section({
     text-shadow-lg
     sm:text-5xl
     md:text-6xl
-    lg:text-6xl
     ${
       darkMode
         ? "text-red-950/85 text-shadow-gray-300"
@@ -221,6 +220,8 @@ export default function MineTitle_AND_Description_Section({
                 <Layers3 className={badgeSmallIconStyle} />
               ) : Badge === "communication" ? (
                 <MessageCircle className={badgeSmallIconStyle} />
+              ) : Badge === "certifications" ? (
+                <Sparkles className={badgeSmallIconStyle} />
               ) : null}
 
               {/* ////////////////////////////////////////////////////////// */}

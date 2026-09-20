@@ -226,7 +226,65 @@
 
 
 
-"=================================================================== Projects ME ==< OK > ===================================================================": "Start Step 7",
+"=================================================================== certifications ME ==< OK > ===================================================================": "Start Step 7",
+
+"education": "التعليم",
+
+"certifications": "الشهادات",
+
+"education certifications": "التعليم والشهادات",
+
+"professional certifications and training that support my journey as a front-end developer": "الشهادات المهنية والتدريبات التي تدعم مسيرتي كمطور واجهات أمامية",
+
+"my": "مسيرتي",
+
+"view certificate": "عرض الشهادة",
+
+"Bachelor's Degree": "درجة البكالوريوس",
+
+"Information Technology Engineering": "هندسة تكنولوجيا المعلومات",
+
+"Higher Technological Institute – Beni Suef": "المعهد التكنولوجي العالي – بني سويف",
+
+"September 2022 — July 2026": "سبتمبر 2022 — يوليو 2026",
+
+"Very Good": "جيد جدًا",
+
+"Bachelor's degree in Information Technology Engineering with a comprehensive academic foundation in computer science, software development, information technology, and web development. The program provided both theoretical knowledge and practical experience in software and web development concepts.": "درجة البكالوريوس في هندسة تكنولوجيا المعلومات مع أساس أكاديمي شامل في علوم الحاسب وتطوير البرمجيات وتكنولوجيا المعلومات وتطوير الويب. وقد وفر البرنامج معرفة نظرية وخبرة عملية في مفاهيم تطوير البرمجيات والويب.",
+
+"Front-End Developer": "مطور واجهات أمامية",
+
+"Higher Technological Institute – Beni Suef": "المعهد التكنولوجي العالي – بني سويف",
+
+"July 2024": "يوليو 2024",
+
+"Certificate confirming completion of a Front-End Development program covering HTML5, CSS3, Bootstrap, JavaScript, and jQuery. The program provided practical experience in building responsive user interfaces, applying UI/UX principles, improving code quality, and organizing projects using Git.": "شهادة تؤكد إتمام برنامج تطوير الواجهات الأمامية الذي يغطي HTML5 وCSS3 وBootstrap وJavaScript وjQuery. وقد وفر البرنامج خبرة عملية في بناء واجهات مستخدم متجاوبة، وتطبيق مبادئ UI/UX، وتحسين جودة الكود، وتنظيم المشاريع باستخدام Git.",
+
+"Front-End React.js Diploma": "دبلومة Front-End في React.js",
+
+"EraaSoft Academy": "أكاديمية EraaSoft",
+
+"July 2026": "يوليو 2026",
+
+"Professional 4-month Front-End React.js diploma focused on modern web development and building structured, responsive, and user-friendly web applications. The program provided practical experience with React.js, JavaScript, responsive design, API integration, component-based development, state management, routing, authentication, Strapi, and Git and GitHub.": "دبلومة مهنية لمدة 4 أشهر في تطوير الواجهات الأمامية باستخدام React.js، تركز على تطوير الويب الحديث وبناء تطبيقات ويب منظمة ومتجاوبة وسهلة الاستخدام. وقد وفر البرنامج خبرة عملية في React.js وJavaScript والتصميم المتجاوب وتكامل واجهات API وتطوير المكونات وإدارة الحالة والتوجيه والمصادقة وStrapi وGit وGitHub.",
+
+"certificate preview": "معاينة الشهادة",
+
+"preview the certificate and view its details.": "معاينة الشهادة وعرض تفاصيلها",
+
+"=================================================================== certifications ME ===================================================================": "End Step 7",
+
+
+
+"===============================================================================================================================================================================": "1",
+"===============================================================================================================================================================================": "2",
+"===============================================================================================================================================================================": "3",
+
+
+
+
+
+"=================================================================== Projects ME ==< OK > ===================================================================": "Start Step 8",
 
     "featured work": "أبرز الأعمال",
 
@@ -237,64 +295,59 @@
     "all projects": "جميع المشاريع",
 
     "Control Panel Dashboard": "لوحة تحكم إدارية",
-    "A responsive admin dashboard interface built with HTML5 and CSS3, featuring a structured layout, organized content sections, and a clean user interface": "واجهة لوحة تحكم إدارية متجاوبة، تم بناؤها باستخدام HTML5 وCSS3، وتتميز بتخطيط منظم وأقسام محتوى مرتبة وواجهة مستخدم نظيفة",
-    "Dashboard": "لوحة تحكم",
+    "A modern and responsive admin dashboard built with HTML5 and CSS3, featuring a clean sidebar navigation, statistics cards, product management tables, data visualization, and multiple organized dashboard pages.": "واجهة لوحة تحكم إدارية متجاوبة، تم بناؤها باستخدام HTML5 وCSS3، وتتميز بتخطيط منظم وأقسام محتوى مرتبة وواجهة مستخدم نظيفة",    "Dashboard": "لوحة تحكم",
 
-    "Travel Website": "موقع سفر",
-    "A responsive travel website built with HTML5 and CSS3, featuring a modern layout, organized content, and a consistent user experience across different screen sizes": "موقع سفر متجاوب، تم بناؤه باستخدام HTML5 وCSS3، ويتميز بتخطيط عصري ومحتوى منظم وتجربة مستخدم متناسقة عبر مختلف أحجام الشاشات",
-    "Travel": "السفر",
-
-    "Single Home Page": "صفحة رئيسية واحدة",
-    "A clean and responsive single-page website built with HTML5 and CSS3, focusing on structured content, modern layout, and cross-device compatibility": "موقع ويب نظيف ومتجاوب مكوّن من صفحة واحدة، تم بناؤه باستخدام HTML5 وCSS3، مع التركيز على المحتوى المنظم والتخطيط العصري والتوافق مع مختلف الأجهزة",
-    "Single Page": "صفحة واحدة",
-
-    "Hover Menu Effects": "تأثيرات القوائم عند التمرير",
-    "A lightweight interactive interface demonstrating modern hover menu effects using CSS transitions and visual interactions": "واجهة تفاعلية خفيفة توضح تأثيرات القوائم الحديثة عند التمرير باستخدام انتقالات CSS والتفاعلات البصرية",
-    "UI Effects": "تأثيرات واجهة المستخدم",
-
-    "E-Commerce Website": "موقع تجارة إلكترونية",
-    "A responsive electronics e-commerce website built with Bootstrap, featuring organized product sections, responsive layouts, and a user-friendly shopping interface": "موقع تجارة إلكترونية متجاوب لبيع الأجهزة الإلكترونية، تم بناؤه باستخدام Bootstrap، ويتميز بأقسام منتجات منظمة وتخطيطات متجاوبة وواجهة تسوق سهلة الاستخدام",
-    "E-Commerce": "التجارة الإلكترونية",
-
-    "Bootstrap Home Page": "الصفحة الرئيسية باستخدام Bootstrap",
-    "A responsive home page built with Bootstrap, focusing on structured layouts, reusable components, and a consistent experience across different devices": "صفحة رئيسية متجاوبة تم بناؤها باستخدام Bootstrap، مع التركيز على التخطيطات المنظمة والمكونات القابلة لإعادة الاستخدام وتجربة متناسقة عبر مختلف الأجهزة",
+    "Adidas Product Landing Page": "صفحة هبوط لمنتج Adidas",
+    "A modern and responsive Adidas product landing page built with HTML5 and CSS3, featuring a clean navigation bar, product-focused hero section, bold typography, and a dynamic gradient background design.": "صفحة هبوط حديثة ومتجاوبة لمنتج من Adidas، تم بناؤها باستخدام HTML5 وCSS3، وتتميز بشريط تنقل أنيق وقسم رئيسي يركز على المنتج وخطوط واضحة وتصميم خلفية متدرج وديناميكي",
     "Landing Page": "صفحة هبوط",
+
+    "Programming Learning Platform": "منصة تعليم البرمجة",
+    "A modern programming learning platform designed to help beginners start their development journey through structured learning paths, covering programming fundamentals, front-end development, web technologies, and back-end development.": "منصة حديثة لتعلم البرمجة، مصممة لمساعدة المبتدئين على بدء رحلتهم في تطوير البرمجيات من خلال مسارات تعليمية منظمة تغطي أساسيات البرمجة وتطوير الواجهات الأمامية وتقنيات الويب وتطوير الواجهات الخلفية.",
+    "Education": "تعليم",
+
+    "YouTube Clone": "نسخة من يوتيوب",
+    "A responsive YouTube clone built with HTML5, CSS3, Bootstrap 5, and Font Awesome. The project recreates the YouTube experience with a dark theme, responsive layout, video cards, watch pages, channels, subscriptions, history, library, and other supporting pages.": "نسخة متجاوبة من يوتيوب، تم بناؤها باستخدام HTML5 وCSS3 وBootstrap 5 وFont Awesome. يحاكي المشروع تجربة يوتيوب من خلال تصميم داكن وتخطيط متجاوب وبطاقات الفيديو وصفحات المشاهدة والقنوات والاشتراكات وسجل المشاهدة والمكتبة وغيرها من الصفحات المساندة.",
+    "Website": "موقع ويب",
 
     "Tic-Tac-Toe Game": "لعبة إكس أو",
     "An interactive Tic-Tac-Toe game built with JavaScript, implementing game logic, player interactions, and dynamic interface updates": "لعبة إكس أو تفاعلية تم بناؤها باستخدام JavaScript، وتتضمن منطق اللعبة وتفاعلات اللاعبين والتحديثات الديناميكية للواجهة",
     "Game": "لعبة",
 
-    "Todo List App": "تطبيق قائمة المهام",
-    "A responsive task management application built with JavaScript, allowing users to add and delete tasks through a simple and intuitive interface": "تطبيق متجاوب لإدارة المهام تم بناؤه باستخدام JavaScript، يتيح للمستخدمين إضافة وحذف المهام من خلال واجهة بسيطة وسهلة الاستخدام",
-    "Todo App": "تطبيق قائمة المهام",
+    "Reaction Rush": "سباق رد الفعل",
+    "A reaction speed game that challenges players to click targets as quickly as possible. The game features progressive levels, faster target appearances, smaller targets, and dynamic difficulty to test and improve reaction speed.": "لعبة لاختبار سرعة رد الفعل، تتحدى اللاعبين للنقر على الأهداف بأسرع وقت ممكن. تتميز اللعبة بمستويات متدرجة، وظهور أسرع للأهداف، وأهداف أصغر، ومستوى صعوبة ديناميكي لاختبار وتحسين سرعة رد الفعل.",
 
-    "Invoice System": "نظام الفواتير",
-    "An interactive invoice system built with JavaScript for managing invoice information through a structured and user-friendly web interface": "نظام فواتير تفاعلي تم بناؤه باستخدام JavaScript لإدارة معلومات الفواتير من خلال واجهة ويب منظمة وسهلة الاستخدام",
-    "Invoice System": "نظام الفواتير",
+    "Fatora System": "نظام الفواتير",
+    "A professional fatora management system built with JavaScript, featuring product management, CRUD operations, live search, data persistence, validation, statistics, and a responsive user-friendly interface.": "نظام احترافي لإدارة الفواتير، تم بناؤه باستخدام JavaScript، ويتميز بإدارة المنتجات وعمليات CRUD والبحث المباشر وحفظ البيانات والتحقق من المدخلات والإحصائيات وواجهة مستخدم متجاوبة وسهلة الاستخدام.",
+    "System": "نظام",
 
-    "Learning Website": "موقع تعليمي",
-    "A responsive educational website designed to present HTML, CSS, and JavaScript learning content through a clean and organized interface": "موقع تعليمي متجاوب مصمم لعرض محتوى تعليمي عن HTML وCSS وJavaScript من خلال واجهة نظيفة ومنظمة",
-    "Education": "التعليم",
-
-    "Image Filters": "فلاتر الصور",
-    "An interactive image filtering application built with JavaScript, allowing users to apply and adjust visual effects on images dynamically": "تطبيق تفاعلي لتصفية الصور تم بناؤه باستخدام JavaScript، يتيح للمستخدمين تطبيق وضبط التأثيرات البصرية على الصور بشكل ديناميكي",
+    "App Image Filters": "تطبيق فلاتر الصور",
+    "An interactive image filtering application built with JavaScript, allowing users to apply and adjust visual effects on images dynamically": "تطبيق تفاعلي لتحرير الصور باستخدام الفلاتر، تم بناؤه باستخدام JavaScript، ويتيح للمستخدمين تطبيق المؤثرات البصرية على الصور وتعديلها بشكل ديناميكي.",
     "Image Editor": "محرر الصور",
 
     "Prayer Times App": "تطبيق مواقيت الصلاة",
-    "A responsive prayer times application that fetches prayer schedules from an external API and displays the data through a clean and user-friendly interface": "تطبيق متجاوب لمواقيت الصلاة يجلب مواعيد الصلاة من واجهة API خارجية ويعرض البيانات من خلال واجهة نظيفة وسهلة الاستخدام",
+    "A responsive prayer times application that displays daily prayer schedules for different countries using the AlAdhan API with a clean and user-friendly interface": "تطبيق متجاوب لمواقيت الصلاة، يعرض مواعيد الصلوات اليومية لمختلف الدول باستخدام AlAdhan API، مع واجهة مستخدم نظيفة وسهلة الاستخدام.",
     "Prayer Times": "مواقيت الصلاة",
 
-    "Personal Portfolio": "معرض أعمال شخصي",
-    "A personal portfolio website built with React.js to showcase my projects, technical skills, experience, and professional profile as a Front-End Developer": "موقع معرض أعمال شخصي تم بناؤه باستخدام React.js لعرض مشاريعي ومهاراتي التقنية وخبرتي وملفي المهني كمطور واجهات أمامية",
-    "Portfolio": "معرض الأعمال",
+    "Product Management System": "نظام إدارة المنتجات",
+    "A responsive product management system that allows users to create, update, search, and delete products while managing prices, taxes, discounts, categories, and product quantities using LocalStorage": "نظام متجاوب لإدارة المنتجات، يتيح للمستخدمين إنشاء المنتجات وتعديلها والبحث عنها وحذفها، مع إدارة الأسعار والضرائب والخصومات والفئات وكميات المنتجات باستخدام LocalStorage.",
+
+    "AI Images Generator": "مولد الصور بالذكاء الاصطناعي",
+    "An AI-powered image generator that allows users to create unique images from text prompts using the OpenAI Images API with a modern and responsive interface": "مولد صور مدعوم بالذكاء الاصطناعي، يتيح للمستخدمين إنشاء صور فريدة من خلال الأوصاف النصية باستخدام OpenAI Images API، مع واجهة حديثة ومتجاوبة.",
+    "AI Generator": "مولد الذكاء الاصطناعي",
 
     "Weather Forecast App": "تطبيق توقعات الطقس",
-    "A responsive weather application built with React.js that fetches weather data from an external API, displays current conditions, and supports multiple languages": "تطبيق متجاوب للطقس تم بناؤه باستخدام React.js، يجلب بيانات الطقس من واجهة API خارجية ويعرض حالة الطقس الحالية ويدعم عدة لغات",
-    "Weather": "الطقس",
+    "A responsive weather application built with React.js that fetches real-time weather data from an external API, displays current weather conditions, and supports multiple languages": "تطبيق متجاوب للطقس، تم بناؤه باستخدام React.js، ويجلب بيانات الطقس في الوقت الفعلي من API خارجي، ويعرض حالة الطقس الحالية ويدعم عدة لغات.", 
+    "Weather API": "واجهة برمجة تطبيقات الطقس",
 
-    "A responsive task management application built with React.js, allowing users to add, edit, delete, and manage tasks with persistent data storage and an intuitive user interface": "تطبيق متجاوب لإدارة المهام تم بناؤه باستخدام React.js، يتيح للمستخدمين إضافة وتعديل وحذف وإدارة المهام مع حفظ البيانات بشكل مستمر وواجهة مستخدم سهلة الاستخدام",
+    "Todo List App": "تطبيق قائمة المهام",
+    "A responsive task management application built with React.js, allowing users to add, edit, delete, and manage tasks with persistent data storage and an intuitive user interface": "تطبيق متجاوب لإدارة المهام، تم بناؤه باستخدام React.js، ويتيح للمستخدمين إضافة المهام وتعديلها وحذفها وإدارتها مع حفظ البيانات بشكل دائم وواجهة مستخدم سهلة الاستخدام.",
+    "Todo App": "تطبيق المهام",
 
-"=================================================================== Projects ME ===================================================================": "End Step 7",
+    "Personal Portfolio": "الموقع الشخصي",
+    "A professional personal portfolio website built with React.js to showcase my work and experience as a Front-End Developer. The website highlights my technical skills, featured projects, services, and professional profile, with a modern, responsive, and user-focused design that reflects my approach to building clean and interactive web experiences.": "موقع شخصي احترافي تم بناؤه باستخدام React.js لعرض أعمالي وخبرتي كمطور Front-End. يسلط الموقع الضوء على مهاراتي التقنية ومشاريعي المميزة وخدماتي وملفي المهني، مع تصميم حديث ومتجاوب يركز على المستخدم ويعكس أسلوبي في بناء تجارب ويب تفاعلية ومنظمة.",
+    "Portfolio": "موقع شخصي",
+
+"=================================================================== Projects ME ===================================================================": "End Step 8",
 
 
 
@@ -308,7 +361,7 @@
 
 
 
-"=================================================================== Contact US ME ==< OK > ===================================================================": "Start Step 8",
+"=================================================================== Contact US ME ==< OK > ===================================================================": "Start Step 9",
 
     "communication": "التواصل",
 
@@ -323,7 +376,7 @@
     "send message": "إرسال الرسالة",
 
 
-"=================================================================== Contact US ME ===================================================================": "End Step 8",
+"=================================================================== Contact US ME ===================================================================": "End Step 9",
 
 
 
@@ -337,7 +390,7 @@
 
 
 
-"=================================================================== Footer ME ==< OK > ===================================================================": "Start Step 9",
+"=================================================================== Footer ME ==< OK > ===================================================================": "Start Step 10",
 
     "let's": "لنبدأ",
     "connect": "نتواصل",
@@ -357,7 +410,7 @@
     "using React": "باستخدام React",
     "Tailwind": "Tailwind",
 
-"=================================================================== Footer ME ===================================================================": "End Step 9",
+"=================================================================== Footer ME ===================================================================": "End Step 10",
 
 
 

@@ -47,7 +47,7 @@ export default function App() {
   // ============================================================
   // Styles
   // ============================================================
-  const appStyle = darkMode ? "bg-[#f5f4f4]" : "bg-[#121212]";
+  const appStyle = darkMode ? "bg-[#f5f4f4]" : "bg-[#0e0d0d]";
 
   const mainContainerStyle = `
     sm:mx-10

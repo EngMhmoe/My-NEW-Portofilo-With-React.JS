@@ -5,6 +5,7 @@ import AboutMe from "./AboutMeComponent/AboutMe";
 import Project from "./ProJectsComponent/Projects";
 import Services from "./ServicesComponent/Services";
 import Skills from "./SkillsComponent/Skills";
+import Certificates from "./CertificatesComponent/Certificates";
 
 //============================================================
 // Component
@@ -37,6 +38,16 @@ export default function MainSection() {
       ======================================================*/}
       <section id="Skills">
         <Skills />
+      </section>
+
+      {/* //////////////////////////////////////////////////////////////////////////////// */}
+      {/* //////////////////////////////////////////////////////////////////////////////// */}
+
+      {/*======================================================
+          Education & Certifications
+      ======================================================*/}
+      <section id="Certificates">
+        <Certificates />
       </section>
 
       {/* //////////////////////////////////////////////////////////////////////////////// */}
