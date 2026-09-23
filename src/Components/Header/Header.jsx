@@ -12,7 +12,6 @@ import "../../styles/header.css";
 // Components
 //============================================================
 import LinksANDIconDarkMode from "./LinksANDIconDarkMode";
-import IconMenuBar from "./IconMenuBar";
 
 //============================================================
 // Context
@@ -44,17 +43,11 @@ export default function Header() {
   return (
     <Box sx={{ flexGrow: 1 }}>
       <div
-        className={`${darkMode ? "shadow-lg shadow-black/15" : "shadow-lg shadow-white/10"}`}
+        className={`${darkMode ? "shadow-lg shadow-black/15 overflow-hidden" : "shadow-lg shadow-white/10 overflow-hidden"}`}
       >
         <Toolbar className={toolbarClasses} style={toolbarStyle}>
           {/* Dark Mode + Links */}
           <LinksANDIconDarkMode />
-
-          {/* /////////////////////////////////////////////////////////////////// */}
-          {/* /////////////////////////////////////////////////////////////////// */}
-
-          {/* Menu */}
-          <IconMenuBar />
         </Toolbar>
       </div>
     </Box>

@@ -38,18 +38,21 @@ export default function LinksHeader() {
   // Translation
   const { t } = useTranslation();
 
+  //   px-3
+  // py-2
   // Styles
   const linksHeaderStyle = `
     Links1
-    flex
+    hidden
+    lg:flex
     items-center
     justify-around
-    gap-5
+    xl:gap-6
+    gap-4
     rounded-[10px]
-    px-3
-    py-2
     shadow-2xl
-    ${darkMode ? "bg-[#fff9f9] shadow-red-600/40" : "bg-[#000000] shadow-red-700/25"}
+    bg-transparent
+    ${darkMode ? "shadow-red-600/40" : "shadow-red-700/25"}
   `;
 
   // Button Variant

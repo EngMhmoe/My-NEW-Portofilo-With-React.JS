@@ -50,7 +50,7 @@ export default function App() {
   const appStyle = darkMode ? "bg-[#f5f4f4]" : "bg-[#0e0d0d]";
 
   const mainContainerStyle = `
-    sm:mx-10
+    sm:mx-0
     pt-6
     img
     ${darkMode ? "bg-white" : "bg-black"}
@@ -62,6 +62,7 @@ export default function App() {
 
   const heroContainerStyle = `
     container-mainSection
+    overflow-hidden
   `;
 
   const statsContainerStyle = `

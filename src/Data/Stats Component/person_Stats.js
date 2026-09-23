@@ -4,7 +4,7 @@
 export const stats = [
   {
     icon: "Code",
-    value: 2,
+    value: 3,
     text: "+",
     label: "Years of Experience",
   },
@@ -13,7 +13,7 @@ export const stats = [
 
   {
     icon: "Briefcase",
-    value: 10,
+    value: 13,
     text: "+",
     label: "Project Completed",
   },
