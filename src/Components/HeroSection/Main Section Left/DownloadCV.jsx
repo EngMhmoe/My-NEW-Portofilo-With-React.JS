@@ -117,7 +117,7 @@ export default function DownloadCV() {
 
   return (
     <motion.a
-      href="https://drive.google.com/file/d/1OBX49jrgR2kwSUe-8S6TaxAKa9mYMbhl/view?usp=drivesdk"
+      href="https://drive.google.com/file/d/1iOBBK5REVuYa18gyXiMbhmoZf-cK-VQq/view?usp=drivesdk"
       download
       target="_blank"
       rel="noopener noreferrer"

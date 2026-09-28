@@ -27,6 +27,7 @@ export const technologies = [
       "Context API",
       "React Router DOM",
       "React Query",
+      "Redux",
     ],
   },
 
