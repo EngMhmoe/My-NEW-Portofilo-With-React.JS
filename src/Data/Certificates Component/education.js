@@ -32,7 +32,7 @@ export const education = {
     // Example:
     // image: "/Images/Certificates/Graduation-Certificate.jpg"
     //========================================================
-    image: "",
+    image: "/Images/Image My Certificates/education.png",
 
     //========================================================
     // Add your graduation certificate file/link here
